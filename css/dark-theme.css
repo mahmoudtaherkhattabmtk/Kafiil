@@ -1,0 +1,70 @@
+/* باختصار اللي عاوز اعمله هعمل توجل لكلاس اسمه دارك باكجروند ودارك كلور وخلاص */
+/*جمع هنا كل ما هو لو ابيض او درجاته*
+
+body
+{
+    background-color: #444 !important;
+}
+.navbar-default, section,.service-add-ons input,
+.service-add-ons section,
+.description .description-content,
+.purshace section,
+.service-rating .service-rating-container,
+.testimonials,
+.boxes .box,
+.boxes .last-box section,
+.suggested-service .cards .card,
+.service-add-ons input,
+.purshace .purshace-service:first-of-type button,
+.suggested-service .cards .card .favorite i 
+{
+    background-color: #333 !important;
+    color: #fff !important;
+}
+.carousel .carousel-control:hover
+{
+    background: #333 !important;
+}
+
+.navbar-default {
+    color: #fff !important;
+    border-color: #333 !important;
+}
+
+.navbar ul li>a {
+    color: #fff !important;
+}
+.top {
+    background-color: #333 !important;
+    box-shadow: 0px 4px 26px rgb(0 0 0) !important;
+}
+
+
+
+/*color*
+.purshace,
+.service-rating,
+.testimonials ul li:last-of-type p,
+.suggested-service .cards .card-title ,
+.suggested-service .card ul:last-of-type li,
+.suggested-service .card ul:last-of-type li:last-of-type,
+.boxes .box:nth-of-type(3) ul li
+.left-content .service-section p,
+.description b,
+.head,
+.left-content .service-section p, .description b, .head,
+form section label,
+.testimonials p, 
+.box ul li,
+.boxes .last-box .head .left,
+.boxes .last-box section .img-container .other-service-content span
+{
+    color: #FFF !important;
+}
+
+/**
+.purshace .purshace-service span
+{
+    color: #000 !important;
+}
+
